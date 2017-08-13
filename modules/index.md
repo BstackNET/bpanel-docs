@@ -1,6 +1,6 @@
 <args>
-next = "/modules/getting-started/"
-title = "Modules"
+next="/modules/getting-started/"
+title="Modules"
 </args>
 ## Introduction
 
