@@ -1,5 +1,5 @@
 <args>
-next=/modules/getting-started/
+next=modules/getting-started/
 title=Modules
 </args>
 
