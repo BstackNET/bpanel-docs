@@ -1,6 +1,7 @@
 <args>
 title=Getting Started
 next=modules/code-samples
+prev=modules/
 </args>
 
 Getting Started
